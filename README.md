@@ -3,7 +3,7 @@
 ## Part 1 - File Stat Loops
 
 * Watch the following video that walks you through the requirements for Java Lab 8
-* [Java-Lab-008 Walkthrough Video]()
+* [Java-Lab-008 Walkthrough Video](https://redwoods.us-west-2.instructuremedia.com/embed/6789a006-e77f-451d-ac11-7629648ada99)
 
 ## Part 2 - Turn In
 
